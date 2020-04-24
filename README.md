@@ -10,3 +10,4 @@ nanobench template
 
 nanopublications
 
+micropublications https://raw.githubusercontent.com/timclark001/mp/master/mp.owl
